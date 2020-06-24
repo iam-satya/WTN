@@ -1,4 +1,4 @@
-package com.wipro.loops;
+package com.wtn.loops;
 
 public class Example5 {
 
