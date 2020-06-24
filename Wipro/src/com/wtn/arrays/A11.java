@@ -1,5 +1,5 @@
 package com.wtn.arrays;
-import java.util.*;
+
 public class A11
 {public static void main(String[] args) {
 	if(args.length != 9)
